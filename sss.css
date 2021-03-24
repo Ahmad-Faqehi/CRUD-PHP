@@ -1,0 +1,103 @@
+body{
+	background: black;
+}
+ul{
+	list-style-type: none;
+
+}
+#Homebar{
+	background: black;
+	padding: 10px;
+
+}
+#Homebar li{
+	display: inline;
+	padding: 5px;
+	overflow: hidden;
+}
+#Homebar a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+#Homebar a:hover{
+	background-color: red;
+	color: black;
+}
+}
+#list ul {
+	text-align: center;
+}
+#list li {
+	display: inline;
+	padding: 5px;
+}
+
+#list img{
+	width: 300px;
+	height: 500px;
+
+}
+#soicalmedia{
+	border: 1px solid black;
+	background: Gray;
+	padding: 10px;
+	margin-top: 5px;
+}
+#soicalmedia li{
+	padding: 5px;
+	overflow: hidden;
+	color: white;
+
+}
+#soicalmedia a{
+	f
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+input[type=text],[type=password] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    }
+
+	input[type=submit] {
+
+		background-color: red;
+		color: white;
+		padding: 14px 20px;
+		margin: 8px 0;
+		border: none;
+		cursor: pointer;
+		width: 10%;
+
+	}
+    button {
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+#discb img{
+	width: 400px;
+	height: 500px;
+}
+#discb p{
+	float: left;
+	background: black;
+	color: white;
+	width: 50%;
+	font-size: 25px;
+}
+iframe{
+
+margin-left: 50px;
+margin-bottom: 30px;
+}
